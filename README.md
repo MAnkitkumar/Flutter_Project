@@ -2,14 +2,7 @@
 
 # Medium Clone App using Flutter
 
-[![License](https://img.shields.io/github/license/muhammad-fiaz/MediumApp-Flutter)](https://github.com/muhammad-fiaz/MediumApp-Flutter/blob/main/LICENSE)
-[![Stars](https://img.shields.io/github/stars/muhammad-fiaz/MediumApp-Flutter)](https://github.com/muhammad-fiaz/MediumApp-Flutter/stargazers)
-[![Forks](https://img.shields.io/github/forks/muhammad-fiaz/MediumApp-Flutter)](https://github.com/muhammad-fiaz/MediumApp-Flutter/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/muhammad-fiaz/MediumApp-Flutter)](https://github.com/muhammad-fiaz/MediumApp-Flutter/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/muhammad-fiaz/MediumApp-Flutter)](https://github.com/muhammad-fiaz/MediumApp-Flutter/pulls)
-[![GitHub contributors](https://img.shields.io/github/contributors/muhammad-fiaz/MediumApp-Flutter)](https://github.com/muhammad-fiaz/MediumApp-Flutter/graphs/contributors)
-[![GitHub watchers](https://img.shields.io/github/watchers/muhammad-fiaz/MediumApp-Flutter)](https://github.com/muhammad-fiaz/MediumApp-Flutter/watchers)
-[![GitHub last commit](https://img.shields.io/github/last-commit/muhammad-fiaz/MediumApp-Flutter)](https://github.com/muhammad-fiaz/MediumApp-Flutter/commits/main)
+
 <a href="https://discord.gg/uRkZ5cHf" target="_blank">
   <img
     src="https://dcbadge.limes.pink/api/server/https://discord.gg/uRkZ5cHf?style=shield"
@@ -20,7 +13,7 @@
 Thank you for exploring the Medium Clone App Demo! This Flutter project showcases a simplified version of a Medium-inspired UI template developed with Flutter.
 
 ## Screenshots
-![preview](https://github.com/muhammad-fiaz/MediumApp-Flutter/assets/75434191/f65a9630-9b94-4ddd-b224-1363c58b8ffa)
+![preview](https://github.com/MAnkitkumar/Flutter_Project/assets/75434191/f65a9630-9b94-4ddd-b224-1363c58b8ffa)
 
 **Note: This Flutter Template Contains Placeholder Content for Demo Purposes. This project is still in active development. If you want to add or improve features, make sure to fork and contribute to this repo. Don't forget to star 🌟 the repo if you like it!**
 
@@ -45,7 +38,7 @@ Before you begin, ensure you have Flutter installed. For detailed instructions, 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/muhammad-fiaz/MediumApp-Flutter.git
+    git clone https://github.com/MAnkitkumar/Flutter_Project.git
     ```
 
 2. Change to the project directory:
@@ -93,7 +86,7 @@ If you find this template helpful, consider giving it a star. Your support is ap
 
 Also, if you'd like to offer more support, you can:
 
-- [Sponsor on GitHub](https://github.com/sponsors/muhammad-fiaz)
+- [Sponsor on GitHub]https://github.com/MAnkitkumar
 
 
 ## Happy Coding ❤️
